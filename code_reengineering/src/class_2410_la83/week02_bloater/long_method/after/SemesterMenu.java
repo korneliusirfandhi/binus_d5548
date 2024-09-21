@@ -60,7 +60,7 @@ public class SemesterMenu {
 		System.out.println("1. Create");
 		System.out.println("2. Delete");
 		System.out.println("3. Exit");
-		return getIntInput("input menu", 1, 3);
+		return getIntInput("Input", 1, 3);
 	}
 
 	private void showSemesters() {
