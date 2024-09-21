@@ -1,4 +1,4 @@
-package week02.example01;
+package class_2410_lc80.week02.example01;
 
 // create class -> access modifier public
 public class Circle {

@@ -1,4 +1,4 @@
-package week02.example02;
+package class_2410_lc80.week02.example02;
 
 import java.util.ArrayList;
 
