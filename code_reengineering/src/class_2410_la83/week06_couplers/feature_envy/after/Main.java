@@ -1,4 +1,4 @@
-package class_2410_la83.week06_couplers.after;
+package class_2410_la83.week06_couplers.feature_envy.after;
 
 public class Main {
 

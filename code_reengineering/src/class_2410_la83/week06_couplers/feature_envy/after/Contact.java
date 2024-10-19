@@ -1,7 +1,12 @@
-package class_2410_la83.week06_couplers.before;
+package class_2410_la83.week06_couplers.feature_envy.after;
 
 public class Contact {
     private String email, phone;
+
+    public String getContactInfo() {
+        return "Email : " + email + "\n"
+            + "Phone : " + phone;
+    }
 
     public String getEmail() {
         return email;
